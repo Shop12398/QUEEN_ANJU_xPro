@@ -3,7 +3,7 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
-  "BOT_NUMBER": "94717775628",
+  "BOT_NUMBER": "94707230540",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": false,
@@ -19,7 +19,7 @@ module.exports = {
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "MR JANIYA",
+  "OWNER_NAME": "MR Hashan",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "MOVIE_JID": false,
   "ANIME_JID": false,
@@ -31,6 +31,6 @@ module.exports = {
   "AI_MODE": false,
   "BANNED": [],
   "SUDO": [
-    "94717775628"
+    "94713457207"
   ]
 };
